@@ -1,7 +1,9 @@
 <p align="center"><img src="logo.png" width="250px" height="250px" alt="insta logo"></p>
 
 <h1 align="center">FACEBOOK REPORT BOT</h1>
-<h2 align="center">Join our telegram here > <a href="https://tinyurl.com/yzunj3y2"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a</h2>
+<h2 align="center">Join our telegram here > <a href="https://tinyurl.com/yzunj3y2"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a></h2>
+
+## What is a Bot/Tool for Reporting an Account on TikTok ❓
 
 ## What is a Bot/Tool for Reporting an Account on FaceBook ❓
    Definition of a Bot/Tool:.
