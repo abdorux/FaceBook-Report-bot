@@ -3,8 +3,6 @@
 <h1 align="center">FACEBOOK REPORT BOT</h1>
 <h2 align="center">Join our telegram here > <a href="https://tinyurl.com/yzunj3y2"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a></h2>
 
-## What is a Bot/Tool for Reporting an Account on TikTok ❓
-
 ## What is a Bot/Tool for Reporting an Account on FaceBook ❓
    Definition of a Bot/Tool:.
   * <p>A bot/Tool is an automated software program designed to perform specific tasks online. In the context of social media platforms like FaceBook, bots can be programmed to report accounts based on certain criteria.</p>
